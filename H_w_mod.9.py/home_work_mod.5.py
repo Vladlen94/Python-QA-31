@@ -8,8 +8,11 @@
 # Bill Gates
 
 # def print_quote():
-#     quote = "Don't compare yourself with anyone in this world… if you do so, you are insulting yourself." + " - Bill Gates"
+#     quote = "\t\t\t“Don’t compare yourself with anyone in this world…\n" \
+#             "\t\t\tif you do so, you are insulting yourself.”\n" \
+#             "\t\t\t\t\t\t\t\t\t\t\t\t\t\tBill Gates"
 #     print(quote)
+
 
 # Задание 2
 # Напишите функцию, которая принимает два числа в
@@ -27,6 +30,13 @@
 #             if i % 2 == 0:
 #                 print(i, end=" ")
 
+
+
+
+# def print_numbers(start, end):
+#     for num in range(start, end + 1):
+#         if num % 2 == 0:
+#             print(num)
 
 
 
